@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc6076,100:ff9a44&height=200&section=header&text=Hi,%20I'm%20Taegi!&fontSize=50&fontAlignY=40&fontColor=ffffff" />
-# 👋 Hi, I'm Taegi! (taegi-dev)</p>
+</p>
 
 ### 🧑‍💻 AI Developer | Machine Learning Enthusiast | Data Science Explorer
 
