@@ -3,7 +3,7 @@
 </p>
 
 
-<div style="font-size: 13px; text-align: center; font=Courier; ">
+<div style="font-size: 16px; text-align: center; font=Courier; ">
 
 <p align="center">🧑‍💻 ᴀɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴇɴᴛʜᴜsɪᴀsᴛ | ᴅᴀᴛᴀ sᴄɪᴇɴᴄᴇ ᴇxᴘʟᴏʀᴇʀ</p>
 <p align="center">🔭 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ɴʟᴘ ᴘʀᴏᴊᴇᴄᴛs</p>
