@@ -35,7 +35,7 @@
 
 
 
-<p align="center"> ▪️𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
+<p align="center"> ▪️𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taegi-dev&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000" />
@@ -49,7 +49,7 @@
 
 
 
-<p align="center"> ▪️ 𝙻𝚊𝚝𝚎𝚜𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+<p align="center"> ▪️ 𝙻𝚊𝚝𝚎𝚜𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 </p>
 
 <p align="center">
   <div align="center" style="display: inline-block; text-align: center; font-size: 13px; line-height: 1.6; color:black;">
