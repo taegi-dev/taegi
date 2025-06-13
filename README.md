@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Taegi&center=true&width=300&color=000000&font=Courier&size=50">
-</p>
+<h1 align="center" style="color:black; font-family:Courier, monospace; font-size:48px;">Taegi</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Currently+enrolled+student+at+AI+Transformation+AX+Academy;Working+on+ML+projects;Looking+forward+to+Web3+development&center=true&width=800&color=000000&font=Courier&size=20">
