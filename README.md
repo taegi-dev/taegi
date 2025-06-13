@@ -18,7 +18,7 @@
 
 
 
-### 🛠️ Tech Stack
+<p align="center"> ▪️ 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
@@ -35,7 +35,7 @@
 
 
 
-### 📊 GitHub Stats
+<p align="center"> ▪️𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taegi-dev&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000" />
@@ -49,14 +49,11 @@
 
 
 
-### ✨ Latest Projects
+<p align="center"> ▪️ 𝙻𝚊𝚝𝚎𝚜𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
 <p align="center">
   <div align="center" style="display: inline-block; text-align: center; font-size: 13px; line-height: 1.6; color:black;">
 
-  🖼️ <b>Image Classification on CIFAR-10</b> → (추후 프로젝트 링크 추가 예정) <br>
-  📝 <b>Sentiment Analysis with BERT</b> → (추후 프로젝트 링크 추가 예정) <br>
-  🧠 <b>Object Detection with YOLOv5</b> → (추후 프로젝트 링크 추가 예정)
-
+ 𝚜𝚘𝚘𝚗
   </div>
 </p>
