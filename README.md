@@ -5,8 +5,15 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Currently+enrolled+student+at+AI+Transformation+AX+Academy;Working+on+ML+projects;Looking+forward+to+Web3+development&center=true&width=800&color=000000&font=Courier&size=20">
 </p>
 
+<img src="(https://github.com/taegi-dev/taegi-dev/blob/main/7472ab04-57b7-4335-b029-01c56407f31e.png?raw=true)" />
 
----
+
+
+<p align="center">
+  <img src="https://github.com/taegi-dev/taegi-dev/raw/main/7472ab04-57b7-4335-b029-01c56407f31e.png" width="800px" height="20px" />
+</p>
+
+
 
 
 ### 🛠️ Tech Stack
@@ -18,7 +25,10 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/taegi-dev/taegi-dev/raw/main/7472ab04-57b7-4335-b029-01c56407f31e.png" width="800px" height="20px" />
+</p>
+
 
 ### 📊 GitHub Stats
 
@@ -26,7 +36,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=taegi-dev&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000" />
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/taegi-dev/taegi-dev/raw/main/7472ab04-57b7-4335-b029-01c56407f31e.png" width="800px" height="20px" />
+</p>
+
 
 ### ✨ Latest Projects
 
