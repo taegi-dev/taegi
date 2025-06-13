@@ -1,9 +1,13 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
+</p>
+<br>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Taegi&center=true&width=800&color=000000&font=Courier&size=40" />
 </p>
-
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Currently+enrolled+student+at+AI+Transformation+AX+Academy;Working+on+ML+projects;Looking+forward+to+Web3+development&center=true&width=800&color=000000&font=Courier&size=20">
@@ -14,6 +18,8 @@
   <img src="https://github.com/taegi-dev/taegi-dev/blob/main/d8d74e44-e551-4121-bef5-8211897c1173.png?raw=true" width="800" height="20" />
 </p>
 
+<br>
+<br>
 
 
 
@@ -29,6 +35,8 @@
 
 
 
+<br>
+<br>
 <p align="center">
   <img src="https://github.com/taegi-dev/taegi-dev/blob/main/d8d74e44-e551-4121-bef5-8211897c1173.png?raw=true" width="800" height="20" />
 </p>
@@ -42,7 +50,7 @@
 </p>
 
 
-
+<br>
 <p align="center">
   <img src="https://github.com/taegi-dev/taegi-dev/blob/main/d8d74e44-e551-4121-bef5-8211897c1173.png?raw=true" width="800" height="20" />
 </p>
